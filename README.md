@@ -1,0 +1,4 @@
+RetailPriceCalc
+===============
+
+GUI intro, short
